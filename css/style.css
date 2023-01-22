@@ -1,0 +1,36 @@
+.theme-Primary-Color{
+    color: #0c2e8a;
+}
+.theme-Secondary-Color{
+    color: #50d8af;
+}
+.carousel-img-one{
+    background-image: url('../image/carousel/1.jpg');
+    height: 100vh;
+    background-position: center;
+}
+.carousel-img-two{
+    background-image: url('../image/carousel/3.jpg');
+    height: 100vh;
+    background-position: center;
+}
+.carousel-img-three{
+    background-image: url('../image/carousel/4.jpg');
+    height: 100vh;
+    background-position: center;
+}
+.theme-primary-btn{
+    background-color:#0c2e8a;
+}
+.theme-Secondary-btn{
+    background-color: #50d8af;
+}
+.theme-primary-color{
+    color: #0c2e8a;
+}
+.theme-Secondary-color{
+    color: #50d8af;
+}
+.client-img{
+    width: 130px;
+}
